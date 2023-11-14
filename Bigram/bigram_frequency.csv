@@ -1,0 +1,17 @@
+Couples, Frequency
+aslan - kaplan,2
+kaplan - kanguru,2
+tavuk - kuş,2
+balık - leylek,2
+kedi - köpek,1
+köpek - aslan,1
+kanguru - koyun,1
+koyun - tavuk,1
+kuş - horoz,1
+horoz - balık,1
+kedi - balık,1
+balık - aslan,1
+kanguru - aslan,1
+aslan - tavuk,1
+kuş - köpek,1
+köpek - balık,1

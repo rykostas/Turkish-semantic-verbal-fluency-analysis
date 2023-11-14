@@ -1,0 +1,2 @@
+[['kedi'], ['köpek'], ['aslan', 'kaplan', 'kanguru'], ['koyun'], ['tavuk', 'kuş'], ['horoz'], ['balık', 'leylek']]
+[['kedi'], ['balık'], ['aslan', 'kaplan', 'kanguru'], ['aslan'], ['tavuk', 'kuş'], ['köpek'], ['balık', 'leylek']]

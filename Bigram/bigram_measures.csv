@@ -1,0 +1,3 @@
+ID,Bigram_clusters,switch number,mean cluster size
+1,"[['kedi'], ['köpek'], ['aslan', 'kaplan', 'kanguru'], ['koyun'], ['tavuk', 'kuş'], ['horoz'], ['balık', 'leylek']]",6,1.5714285714285714
+2,"[['kedi'], ['balık'], ['aslan', 'kaplan', 'kanguru'], ['aslan'], ['tavuk', 'kuş'], ['köpek'], ['balık', 'leylek']]",6,1.5714285714285714
